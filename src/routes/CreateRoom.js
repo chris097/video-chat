@@ -40,7 +40,6 @@ const CreateRoom = () => {
                 </form>
             </div>
         </>
-        // <button onClick={create}>Create Room</button>
     )
 };
 
