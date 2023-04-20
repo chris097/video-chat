@@ -185,7 +185,6 @@ const Room = () => {
               handleChange={handleChange}
               sendMessage={sendMessage}
               message={message}
-              yours={message}
           />
           <StreamButton
               toggleCamera={toggleCamera}
