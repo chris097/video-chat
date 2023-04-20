@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import React from 'react'
 import toast from 'react-hot-toast';
-import { useLocation } from 'react-router-dom'
 
 
 const Header = () => {
